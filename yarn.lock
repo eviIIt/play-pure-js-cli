@@ -115,10 +115,10 @@ universalify@^0.1.0:
   resolved "http://levy.ren:4873/universalify/-/universalify-0.1.2.tgz#b646f69be3942dabcecc9d6639c80dc105efaa66"
   integrity sha512-rBJeI5CXAlmy1pV+617WB9J63U6XcazHHF2f2dbJix4XzpUF0RS3Zbj0FGIOCAva5P/d/GBOYaACQ1w+0azUkg==
 
-vue-sfc-cli@^1.11.16:
-  version "1.11.16"
-  resolved "http://levy.ren:4873/vue-sfc-cli/-/vue-sfc-cli-1.11.16.tgz#2d7337d1e877288ecf4b458faf72fb912d07ece5"
-  integrity sha512-0S/ifUMmt+Onz2UG0/MQJgITzWjTu2tMgsoh1Qi/9Uk8M5jopS6Z+RU447HduqPXnj+0WDdiuzY+BKrRb0P1FQ==
+vue-sfc-cli@^1.11.17:
+  version "1.11.17"
+  resolved "http://levy.ren:4873/vue-sfc-cli/-/vue-sfc-cli-1.11.17.tgz#0248c1c79f6199f3c7215655cb3af881aa93da99"
+  integrity sha512-yrOo5ryprdhIrpTucLPaGj+Hv7b4jMVL+arMOGk/PbMnoFKWq9GkYgWnjPnRGYjJw82IecOUwmLyklfLU6KhaA==
   dependencies:
     fs-extra "^7.0.1"
     glob "^7.1.3"

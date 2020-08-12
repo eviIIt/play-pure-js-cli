@@ -1,11 +1,26 @@
 {
   "name": "play-pure-js-cli",
   "version": "1.0.0",
+  "files": [
+    "**/*.js"
+  ],
   "main": "src/index.js",
   "repository": "https://github.com/eviIIt/play-pure-js-cli.git",
   "author": "evillt <hujiehao@deepexi.com>",
   "license": "MIT",
   "devDependencies": {
-    "vue-sfc-cli": "^1.11.16"
+    "vue-sfc-cli": "^1.11.17",
+    "@femessage/github-release-notes": "latest",
+    "standard-version": "^6.0.1"
+  },
+  "vue-sfc-cli": "1.11.17",
+  "gren": "@femessage/grenrc",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Info: no test specified\"",
+    "stdver": "standard-version -m '[skip ci] chore(release): v%s'",
+    "release": "gren release --override"
   }
 }
