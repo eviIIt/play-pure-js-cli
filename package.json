@@ -1,0 +1,11 @@
+{
+  "name": "play-pure-js-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eviIIt/play-pure-js-cli.git",
+  "author": "evillt <hujiehao@deepexi.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vue-sfc-cli": "^1.11.16"
+  }
+}
